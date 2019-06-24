@@ -1,0 +1,336 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0px 20px; 
+    margin: 10px 50px;
+}
+.center{
+    text-align: center;
+    list-style: none;
+    padding: 30px 30px ;
+    float: left;
+}
+.top11{
+    margin-top: 50px;
+}
+.row{
+    margin-top: 150px;
+}
+#center1{
+    font: bold;
+    font-size: 18px;
+}
+.clear{
+    clear: both;
+}
+#imgbor{
+    border: solid;
+    border-radius: 50%;
+    border-color: #E91E63;
+}
+.colom1{
+    float: left;
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.education{
+    float: left;
+    width: 40%;
+    padding-left: 55px;
+    padding-right: 55px;
+    box-shadow: 0px 10px 20px 5px #13121216;
+    box-sizing: border-box;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.list{
+    text-align: left;
+    list-style: none;
+    float: left;
+    padding: 2% 6%;
+    border-style: solid;
+    border-color: #E91E63;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+#font1{
+    font-size: 25px;
+    text-align: left;
+}
+
+.text{
+    text-align: center;
+    padding: 10px;
+    font: bold;
+}
+.know1{
+    float: left;
+    width: 33.33%;
+    padding: 2%;
+}
+h1{
+    text-align: center;
+    font-family: "roboto" , sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: "roboto" , sans-serif;
+}
+.button {
+    background-color:#E91E63;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 50px;
+    width: 150px;
+    outline: none;
+  }
+#year{
+    color:#E91E63;
+}
+#ittalic{
+    color: #E91E63;
+}
+#name{
+    text-align: left;
+}
+.whatido{
+    padding-left: 55px;
+    padding-right: 55px;
+    box-shadow: 0px 10px 20px 5px #13121215;
+    box-sizing: border-box;
+    font-weight: 500;
+    line-height: 24px;
+    line-height: 24px;
+    padding: 20px;
+}
+.whatido p{
+    font-size: 17px;
+}
+#sizef{
+    font-size: 16px;
+}
+.icons{
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.fa-bullseye{
+    color: blueviolet;
+}
+.fa-code{
+    color: #ed7256;
+}
+.fa-object-ungroup{
+    color: #2796e2;
+}
+#iconclass{
+    text-align: center;
+    color: #E91E63;
+}
+.colom1 h2{
+    text-align: left;
+}
+#work{
+    text-align: center;
+}
+.contoties{
+    margin-bottom: 15px;
+    width: 80%;
+    
+}
+.nome{
+    text-align: left;
+}
+
+.row1 .colom1{
+    padding: 3% 3%;
+}
+div.colom1 img{
+    width: 45%;
+    height: auto;
+}
+.immage img{
+    width: 100%;
+}
+
+.immage1 {
+    text-align: center;
+}
+div .colom11 img{
+    width: 50%;
+    height: 50%;
+    float: left;
+
+}
+.learn{
+    text-align: center;
+    list-style: none;
+}
+.read{
+    font: bold;
+    text-align: left;
+    padding: 40px 40px;
+}
+.lastp{
+    text-align: left;
+    padding: 30px;
+
+}
+.colom1 p #font{
+    font: bold;
+    font-family: "roboto" , sans-serif;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.percentage{
+    background-color: #cccccc;
+    height: 7px;
+    border-radius: 20px;
+    margin-top: 10px;
+    border-color: #E91E63;
+}
+.hmpercentage{
+    background-color:#E91E63;
+    height: 7px;
+    border-radius: 20px;
+    margin-top: 10px;
+    border-color: #E91E63;
+    
+}
+#javascript{
+    width: 86%;
+}
+#java{
+    width: 46%;
+}
+#python{
+    width: 38%;
+}
+#php{
+    width: 17%;
+}
+.rount1{
+    height: 100px;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.rount2{
+    height: 100px;
+    text-align: center;
+}
+.inrount{
+    width: 80px;
+    height: 80px;
+    display:inline-block;
+    border-radius: 50%;
+    border:solid;
+    border-color: #E91E63;
+
+}
+.inrount1{
+    width: 80px;
+    height: 80px;
+    display:inline-block;
+    border-radius: 50%;
+    border:solid;
+    border-color: #E91E63;
+
+}
+.experience{
+    margin-top: 130px;
+}
+.inrount p{
+    text-align: center;
+    padding-top: 13px;
+}
+.inrount1 p{
+    text-align: center;
+    padding-top: 13px;
+}
+.fcname{
+    float: left;
+    text-align: left;
+}
+.flname{
+    float: right;
+    text-align: left;
+}
+.footer{
+    width: 50%;
+    float: left;
+    
+}
+.bn{
+    text-align: center;
+}
+input{
+    border: rgb(253, 9, 29);
+    border-radius: 5%;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+#map{
+    text-align: center;
+    width: 500px;
+    height: 400px;
+}
+#rountmargin{
+    margin-top: 50px;
+}
+#iname{
+    height:45px;
+    width: 95%;
+    border: solid;
+    border-color: whitesmoke;
+    outline: none;
+}
+#lname{
+    height:45px;
+    width: 45%;
+    border: solid;
+    border-color: whitesmoke;
+    outline: none;
+}
+#yname{
+    height:150px;
+    width: 85%;   
+    border: solid;
+}
+#smessage{
+    outline: none;
+    height:150px;
+    width: 85%;   
+    border: solid;
+    border-color: whitesmoke;
+}
+#button{
+    width: 90%;
+}
+.final{
+    float: left;
+    width: 50%;
+    margin-top: 50px;
+}
+#finalicon{
+list-style: none;
+padding: 30px 30px ;
+float: left;
+}
+
